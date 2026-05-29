@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Example'
-copyright = 'workshop participant'
-author = 'workshop participant'
-release = '0.1'
+project = 'Pscyclepaths'
+copyright = 'Simon Thompson'
+author = 'Simon Thompson'
+release = '2027 Plans'
 
 
 # -- General configuration ---------------------------------------------------
