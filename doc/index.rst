@@ -6,4 +6,4 @@ Pscyclepaths Ideas
    :caption: Contents:
 
    pages/Introduction.md
-   pages/update.md
+
