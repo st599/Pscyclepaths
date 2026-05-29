@@ -6,4 +6,4 @@ Pscyclepaths Ideas
    :caption: Contents:
 
    pages/Introduction.md
-
+   pages/idea_2027_1.md
