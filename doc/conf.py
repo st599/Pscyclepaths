@@ -9,7 +9,7 @@
 project = 'Pscyclepaths'
 copyright = 'Simon Thompson'
 author = 'Simon Thompson'
-release = '2027 Plans'
+release = '2027 Plans v1'
 
 
 # -- General configuration ---------------------------------------------------
