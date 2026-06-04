@@ -7,3 +7,4 @@ Pscyclepaths Ideas
 
    pages/Introduction.md
    pages/idea_2027_1.md
+   pages/idea_2027_2.md
