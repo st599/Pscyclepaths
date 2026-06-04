@@ -1,0 +1,36 @@
+# MISSION NAME
+
+## logo
+
+## Overview
+
+## The Route Day 1
+
+### Map
+
+### Description
+
+### Accomodation
+
+## The Route Day 2
+
+### Map
+
+### Description
+
+### Accomodation
+
+## The Route Day 3
+
+### Map
+
+### Description
+
+### Accomodation
+## Local Cuisine, Drinks etc.
+
+## Logistics
+
+### Gettng there
+
+### Getting Back
